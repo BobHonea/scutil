@@ -1,0 +1,2 @@
+# scutil
+BASH Support Functions
